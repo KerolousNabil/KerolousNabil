@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there I’m full stack mobile developer <br>&I hope you are good & that's enough be happy. <br> I will develop an mobile app using flutter framework. <br>Here I would like to tell you a bit about my development career I've been in the business for 1 year <br>and during this period I have developed almost all kind of apps .<br>using native android and now I can work with flutter framework, I can work with third party Api services.<br><br>
+Hello there I’m full stack mobile developer <br>I hope you are good & that's enough be happy. <br> I will develop an mobile app using flutter framework. <br>Here I would like to tell you a bit about my development career I've been in the business for 1 year <br>and during this period I have developed almost all kind of apps .<br>using native android and now I can work with flutter framework, I can work with third party Api services.<br><br>
 
 
 ## 🌐 Socials:
